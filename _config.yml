@@ -44,6 +44,7 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
+remote_theme: bef
 plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
